@@ -1,0 +1,2 @@
+Average Temperature = 55.15 C
+Average Vibration = 2.75
